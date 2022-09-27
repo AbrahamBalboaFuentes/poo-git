@@ -14,3 +14,7 @@ enero
 febrero
 marzo
 abril
+
+estaciones
+verano
+invierno
